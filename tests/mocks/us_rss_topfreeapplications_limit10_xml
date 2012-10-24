@@ -1,0 +1,1085 @@
+HTTP/1.1 200 OK
+Last-Modified: Wed, 24 Oct 2012 13:57:35 GMT
+access-control-allow-origin: *
+x-apple-lok-stor: memcached
+x-apple-lok-current-storefront: <null>
+x-apple-orig-url-path: /us/rss/topfreeapplications/limit=10/xml
+x-apple-application-site: NWK
+x-apple-lok-response-date: Wed Oct 24 07:00:59 PDT 2012
+x-apple-lok-expire-date: Wed Oct 24 07:57:35 PDT 2012
+apple-timing-app: 2 ms
+x-apple-lok-path: v0_https:i.a.c/MZStoreServices/RSS/topfreeapplications/limit=10/xml?cc=us-NOXASF-Ak
+Content-Type: application/xml
+x-apple-translated-wo-url: /WebObjects/MZStoreServices.woa/ws/RSS/topfreeapplications/limit=10/xml?cc=us
+x-apple-application-instance: 1011010
+x-webobjects-loadaverage: 0
+x-apple-lok-ttl: Generated Wed Oct 24 06:57:35 PDT 2012, Expires Wed Oct 24 07:57:35 PDT 2012, TTL 3600s
+Date: Wed, 24 Oct 2012 14:01:25 GMT
+Transfer-Encoding:  chunked
+Connection: keep-alive
+Connection: Transfer-Encoding
+X-Apple-Partner: origin.0
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<feed xmlns:im="http://itunes.apple.com/rss" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+		<id>https://itunes.apple.com/us/rss/topfreeapplications/limit=10/xml</id><title>iTunes Store: Top Free Apps</title><updated>2012-10-24T06:57:35-07:00</updated><link rel="alternate" type="text/html" href="https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewTop?cc=us&amp;id=38&amp;popId=27"/><link rel="self" href="https://itunes.apple.com/us/rss/topfreeapplications/limit=10/xml"/><icon>http://itunes.apple.com/favicon.ico</icon><author><name>iTunes Store</name><uri>http://www.apple.com/itunes/</uri></author><rights>Copyright 2008 Apple Inc.</rights>
+
+			<entry>
+				<updated>2012-10-24T06:57:35-07:00</updated>
+
+					<id im:id="544007664" im:bundleId="com.google.ios.youtube">https://itunes.apple.com/us/app/youtube/id544007664?mt=8&amp;uo=2</id>
+
+					<title>YouTube - Google, Inc.</title>
+
+					<summary>Watch the world’s videos and keep up with your favorite YouTube channels with the official YouTube app for iOS. Sign in to access your subscriptions, playlists, uploads and more.
+
+Features:
+✓ Enjoy YouTube’s vast video catalog, including official music videos
+✓ Find videos and channels more easily with voice search and query autocomplete
+✓ Subscribe to channels and instantly access your subscriptions with the channel guide UI
+✓ Read comments, browse related videos, enable subtitles and more - all while watching
+✓ Easy video sharing to Google+, E-mail, Facebook and Twitter</summary>
+
+					<im:name>YouTube</im:name>
+
+					<link rel="alternate" type="text/html" href="https://itunes.apple.com/us/app/youtube/id544007664?mt=8&amp;uo=2"/>
+
+					<im:contentType term="Application" label="Application"/>
+
+					<category im:id="6008" term="Photo &amp; Video" scheme="https://itunes.apple.com/us/genre/ios-photo-video/id6008?mt=8&amp;uo=2" label="Photo &amp; Video"/>
+
+					<link title="Preview" rel="enclosure" type="image/jpeg" href="http://a2.mzstatic.com/us/r1000/071/Purple/v4/b1/a4/8d/b1a48d0b-bfe3-5980-e7af-d7f72d19a539/mza_3232081158438617476.320x480-75.jpg" im:assetType="preview"><im:duration>0</im:duration></link>
+
+					<im:artist href="https://itunes.apple.com/us/artist/google-inc./id281956209?mt=8&amp;uo=2">Google, Inc.</im:artist>
+
+					<im:price amount="0.00000" currency="USD">Free</im:price>
+
+					<im:image height="53">http://a1746.phobos.apple.com/us/r1000/075/Features/v4/db/46/90/db4690bd-efd7-7146-ccda-2907d6412e25/mza_2095397568113465042.53x53-50.png</im:image>
+
+					<im:image height="75">http://a262.phobos.apple.com/us/r1000/075/Features/v4/db/46/90/db4690bd-efd7-7146-ccda-2907d6412e25/mza_2095397568113465042.75x75-65.png</im:image>
+
+					<im:image height="100">http://a995.phobos.apple.com/us/r1000/075/Features/v4/db/46/90/db4690bd-efd7-7146-ccda-2907d6412e25/mza_2095397568113465042.100x100-75.png</im:image>
+
+					<rights>&#169; 2012 Google Inc.</rights>
+
+					<im:releaseDate label="September 11, 2012">2012-09-11T00:23:19-07:00</im:releaseDate>
+
+
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://itunes.apple.com/us/app/youtube/id544007664?mt=8&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;Google, Inc. - YouTube artwork&quot; src=&quot;http://a995.phobos.apple.com/us/r1000/075/Features/v4/db/46/90/db4690bd-efd7-7146-ccda-2907d6412e25/mza_2095397568113465042.100x100-75.png&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+
+
+                        &lt;b&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/youtube/id544007664?mt=8&amp;uo=2&quot;&gt;YouTube&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+
+
+
+
+
+                        &lt;a href=&quot;https://itunes.apple.com/us/artist/google-inc./id281956209?mt=8&amp;amp;uo=2&quot;&gt;Google, Inc.&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+
+						 	&lt;br/&gt;
+                            &lt;b&gt;Genre:&lt;/b&gt; &lt;a href=&quot;https://itunes.apple.com/us/genre/ios-photo-video/id6008?mt=8&amp;uo=2&quot;&gt;Photo &amp; Video&lt;/a&gt;
+
+						 	&lt;br/&gt;
+                            &lt;b&gt;Release Date:&lt;/b&gt; September 11, 2012
+
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;&lt;br/&gt;Watch the world’s videos and keep up with your favorite YouTube channels with the official YouTube app for iOS. Sign in to access your subscriptions, playlists, uploads and more.&lt;br/&gt;&lt;br/&gt;Features:&lt;br/&gt;✓ Enjoy YouTube’s vast video catalog, including official music videos&lt;br/&gt;✓ Find videos and channels more easily with voice search and query autocomplete&lt;br/&gt;✓ Subscribe to channels and instantly access your subscriptions with the channel guide UI &lt;br/&gt;✓ Read comments, browse related videos, enable subtitles and more - all while watching&lt;br/&gt;✓ Easy video sharing to Google+, E-mail, Facebook and Twitter&lt;/font&gt;&lt;br/&gt;
+
+
+
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; © 2012 Google Inc.&lt;/font&gt;
+
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+
+			</entry>
+
+			<entry>
+				<updated>2012-10-24T06:57:35-07:00</updated>
+
+					<id im:id="544556782" im:bundleId="com.gmstudio.Vintique">https://itunes.apple.com/us/app/vintique/id544556782?mt=8&amp;uo=2</id>
+
+					<title>Vintique - GMY Studio</title>
+
+					<summary>★ Now, Vintique has bee featured as App of the Week ★
+
+☛ If you have trouble downloading Plus Pack, please do the following steps to clean old and new network settings.
+This network problem occurs more frequently in iOS6.
+
+iPhone&#39;s Setting -&gt; General -&gt; Reset -&gt; Reset Network Settings
+
+☛ If possible, please use Wi-Fi when you download Plus Pack.
+We use Amazon server for Plus Pack. If you fail to get it at the moment, please try it again after few minutes.
+Downloading Plus Pack works in background.
+
+
+Vintique provides awesome vintage filters and powerful image editing tools.
+
+Edit your photos with Vintique and boast them on Instagram, Facebook and Twitter.
+
+★ 32 Vintage Filters
+- old times, warm day, delight, 5 p.m., watercolors
+- pinky day, drowsy, vintage, yesterday, the day, heaven
+- happy time, beamed, someday, sweet dream, phantasm
+- dim past, tenebrific, gloomy, reminiscent, remember, mind map, coarse
+- canvas, letters, chilly, chic, pure, fading, blue ink, memories, dark mood
+
+✪ You can turn on or off adjustment steps and textures in a filter. Yes, you can edit your own style vintage photo.
+
+★ Adjustments
+- Bright/Contrast/Saturation
+- Vibrance
+- Temperature/Tint
+- Highlight/Shadow
+- Exposure
+- Gamma
+-  Hue
+
+★ 19 various vignetting &amp; 26 textures
+- You can adjust the opacity.
+
+★ 49 frames
+
+★ Share
+- Open in Instagram
+- Save to album
+- Facebook
+- Twitter
+- Mail
+- Open in other apps
+✪ Actual previews of Instagram, Facebook and Twitter
+
+★ Image Resolution
+- 612X612: for mobile photo sharing services (Instagram, Facebook, Twitter, etc).
+- 1224X1224
+- 2448X2448
+
+** Special Thanks **
+@diaphragm provided the eiffel tower photo for the 1st screen shot.</summary>
+
+					<im:name>Vintique</im:name>
+
+					<link rel="alternate" type="text/html" href="https://itunes.apple.com/us/app/vintique/id544556782?mt=8&amp;uo=2"/>
+
+					<im:contentType term="Application" label="Application"/>
+
+					<category im:id="6008" term="Photo &amp; Video" scheme="https://itunes.apple.com/us/genre/ios-photo-video/id6008?mt=8&amp;uo=2" label="Photo &amp; Video"/>
+
+					<link title="Preview" rel="enclosure" type="image/jpeg" href="http://a5.mzstatic.com/us/r1000/080/Purple/v4/20/8b/25/208b2519-34f7-eb02-6df4-81044ea097c8/mzl.hlnucpki.1024x1024-65.jpg" im:assetType="preview"><im:duration>0</im:duration></link>
+
+					<im:artist href="https://itunes.apple.com/us/artist/gmy-studio/id428268038?mt=8&amp;uo=2">GMY Studio</im:artist>
+
+					<im:price amount="0.00000" currency="USD">Free</im:price>
+
+					<im:image height="53">http://a60.phobos.apple.com/us/r1000/092/Purple/v4/0c/84/47/0c84472f-c94f-fffd-9f78-7473893cf71d/mza_3610265840956502969.53x53-50.png</im:image>
+
+					<im:image height="75">http://a576.phobos.apple.com/us/r1000/092/Purple/v4/0c/84/47/0c84472f-c94f-fffd-9f78-7473893cf71d/mza_3610265840956502969.75x75-65.png</im:image>
+
+					<im:image height="100">http://a1229.phobos.apple.com/us/r1000/092/Purple/v4/0c/84/47/0c84472f-c94f-fffd-9f78-7473893cf71d/mza_3610265840956502969.100x100-75.png</im:image>
+
+					<rights>&#169; 2012 GMY Studio</rights>
+
+					<im:releaseDate label="August 3, 2012">2012-08-03T07:19:36-07:00</im:releaseDate>
+
+
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://itunes.apple.com/us/app/vintique/id544556782?mt=8&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;GMY Studio - Vintique artwork&quot; src=&quot;http://a1229.phobos.apple.com/us/r1000/092/Purple/v4/0c/84/47/0c84472f-c94f-fffd-9f78-7473893cf71d/mza_3610265840956502969.100x100-75.png&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+
+
+                        &lt;b&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/vintique/id544556782?mt=8&amp;uo=2&quot;&gt;Vintique&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+
+
+
+
+
+                        &lt;a href=&quot;https://itunes.apple.com/us/artist/gmy-studio/id428268038?mt=8&amp;amp;uo=2&quot;&gt;GMY Studio&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+
+						 	&lt;br/&gt;
+                            &lt;b&gt;Genre:&lt;/b&gt; &lt;a href=&quot;https://itunes.apple.com/us/genre/ios-photo-video/id6008?mt=8&amp;uo=2&quot;&gt;Photo &amp; Video&lt;/a&gt;
+
+						 	&lt;br/&gt;
+                            &lt;b&gt;Release Date:&lt;/b&gt; August 3, 2012
+
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;&lt;br/&gt;★ Now, Vintique has bee featured as App of the Week ★&lt;br/&gt;&lt;br/&gt;☛ If you have trouble downloading Plus Pack, please do the following steps to clean old and new network settings.&lt;br/&gt;This network problem occurs more frequently in iOS6.&lt;br/&gt;&lt;br/&gt;iPhone&amp;#39;s Setting -&amp;gt; General -&amp;gt; Reset -&amp;gt; Reset Network Settings&lt;br/&gt;&lt;br/&gt;☛ If possible, please use Wi-Fi when you download Plus Pack.&lt;br/&gt;We use Amazon server for Plus Pack. If you fail to get it at the moment, please try it again after few minutes.&lt;br/&gt;Downloading Plus Pack works in background.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Vintique provides awesome vintage filters and powerful image editing tools.&lt;br/&gt;&lt;br/&gt;Edit your photos with Vintique and boast them on Instagram, Facebook and Twitter.&lt;br/&gt;&lt;br/&gt;★ 32 Vintage Filters&lt;br/&gt;- old times, warm day, delight, 5 p.m., watercolors&lt;br/&gt;- pinky day, drowsy, vintage, yesterday, the day, heaven&lt;br/&gt;- happy time, beamed, someday, sweet dream, phantasm&lt;br/&gt;- dim past, tenebrific, gloomy, reminiscent, remember, mind map, coarse&lt;br/&gt;- canvas, letters, chilly, chic, pure, fading, blue ink, memories, dark mood&lt;br/&gt;&lt;br/&gt;✪ You can turn on or off adjustment steps and textures in a filter. Yes, you can edit your own style vintage photo.&lt;br/&gt;&lt;br/&gt;★ Adjustments&lt;br/&gt;- Bright/Contrast/Saturation&lt;br/&gt;- Vibrance&lt;br/&gt;- Temperature/Tint&lt;br/&gt;- Highlight/Shadow&lt;br/&gt;- Exposure&lt;br/&gt;- Gamma&lt;br/&gt;-  Hue&lt;br/&gt;&lt;br/&gt;★ 19 various vignetting &amp;amp; 26 textures&lt;br/&gt;- You can adjust the opacity.&lt;br/&gt;&lt;br/&gt;★ 49 frames&lt;br/&gt;&lt;br/&gt;★ Share&lt;br/&gt;- Open in Instagram&lt;br/&gt;- Save to album&lt;br/&gt;- Facebook&lt;br/&gt;- Twitter&lt;br/&gt;- Mail&lt;br/&gt;- Open in other apps&lt;br/&gt;✪ Actual previews of Instagram, Facebook and Twitter&lt;br/&gt;&lt;br/&gt;★ Image Resolution&lt;br/&gt;- 612X612: for mobile photo sharing services (Instagram, Facebook, Twitter, etc).&lt;br/&gt;- 1224X1224&lt;br/&gt;- 2448X2448&lt;br/&gt;&lt;br/&gt;** Special Thanks **&lt;br/&gt;@diaphragm provided the eiffel tower photo for the 1st screen shot.&lt;/font&gt;&lt;br/&gt;
+
+
+
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; © 2012 GMY Studio&lt;/font&gt;
+
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+
+			</entry>
+
+			<entry>
+				<updated>2012-10-24T06:57:35-07:00</updated>
+
+					<id im:id="525463029" im:bundleId="com.apple.podcasts">https://itunes.apple.com/us/app/podcasts/id525463029?mt=8&amp;uo=2</id>
+
+					<title>Podcasts - Apple</title>
+
+					<summary>Podcasts app is the easiest way to discover, subscribe to, and play your favorite podcasts on your iPhone, iPad, and iPod touch. Explore hundreds of thousands of free audio and video podcasts from the Podcasts Catalog, and play the most popular podcasts, organized for you by topic, with the all-new Top Stations feature.
+
+Features:
+
+• Enjoy all of your audio and video podcasts in a single app
+• Explore hundreds of thousands of podcasts including shows in over 40 languages
+• Try the innovative new Top Stations feature to find new podcast series in a variety of topics, including arts, business, comedy, music, news, sports, and more.
+• Browse by audio or video podcasts, or see what&#39;s most popular in Top Charts
+• Tap Subscribe for your favorites and automatically receive new episodes for free as they become available
+• Stream episodes or download to listen while offline
+• Skip forward and back using simple playback controls
+• Turn on Sleep Timer to automatically stop playing a podcast while listening in bed
+• Share your favorite episodes with friends using Twitter, Messages, and Mail
+• Optionally sync your favorite episodes from iTunes on your Mac or PC
+• Sync your episode playback for seamless transition between devices
+
+Requirements:
+
+• Requires a device with iOS 5.1 or later
+• Optionally syncing episodes requires iTunes 10.6.3 or later
+• Streaming or downloading episodes requires Internet access over a Wi-Fi or cellular data connection</summary>
+
+					<im:name>Podcasts</im:name>
+
+					<link rel="alternate" type="text/html" href="https://itunes.apple.com/us/app/podcasts/id525463029?mt=8&amp;uo=2"/>
+
+					<im:contentType term="Application" label="Application"/>
+
+					<category im:id="6016" term="Entertainment" scheme="https://itunes.apple.com/us/genre/ios-entertainment/id6016?mt=8&amp;uo=2" label="Entertainment"/>
+
+					<link title="Preview" rel="enclosure" type="image/jpeg" href="http://a2.mzstatic.com/us/r1000/114/Purple/v4/1e/b6/bc/1eb6bc8e-02e9-21d5-07a1-7fd8f609b43c/mzl.jwdwkxwo.1024x1024-65.jpg" im:assetType="preview"><im:duration>0</im:duration></link>
+
+					<im:artist href="https://itunes.apple.com/us/artist/apple/id284417353?mt=8&amp;uo=2">Apple</im:artist>
+
+					<im:price amount="0.00000" currency="USD">Free</im:price>
+
+					<im:image height="53">http://a305.phobos.apple.com/us/r1000/109/Purple/v4/65/39/e1/6539e12a-5158-c2ba-498a-01985df4a81a/mza_8997730497926029096.53x53-50.png</im:image>
+
+					<im:image height="75">http://a821.phobos.apple.com/us/r1000/109/Purple/v4/65/39/e1/6539e12a-5158-c2ba-498a-01985df4a81a/mza_8997730497926029096.75x75-65.png</im:image>
+
+					<im:image height="100">http://a1634.phobos.apple.com/us/r1000/109/Purple/v4/65/39/e1/6539e12a-5158-c2ba-498a-01985df4a81a/mza_8997730497926029096.100x100-75.png</im:image>
+
+					<rights>&#169; 2012 Apple Inc.</rights>
+
+					<im:releaseDate label="June 26, 2012">2012-06-26T10:40:41-07:00</im:releaseDate>
+
+
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://itunes.apple.com/us/app/podcasts/id525463029?mt=8&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;Apple - Podcasts artwork&quot; src=&quot;http://a1634.phobos.apple.com/us/r1000/109/Purple/v4/65/39/e1/6539e12a-5158-c2ba-498a-01985df4a81a/mza_8997730497926029096.100x100-75.png&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+
+
+                        &lt;b&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/podcasts/id525463029?mt=8&amp;uo=2&quot;&gt;Podcasts&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+
+
+
+
+
+                        &lt;a href=&quot;https://itunes.apple.com/us/artist/apple/id284417353?mt=8&amp;amp;uo=2&quot;&gt;Apple&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+
+						 	&lt;br/&gt;
+                            &lt;b&gt;Genre:&lt;/b&gt; &lt;a href=&quot;https://itunes.apple.com/us/genre/ios-entertainment/id6016?mt=8&amp;uo=2&quot;&gt;Entertainment&lt;/a&gt;
+
+						 	&lt;br/&gt;
+                            &lt;b&gt;Release Date:&lt;/b&gt; June 26, 2012
+
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;&lt;br/&gt;Podcasts app is the easiest way to discover, subscribe to, and play your favorite podcasts on your iPhone, iPad, and iPod touch. Explore hundreds of thousands of free audio and video podcasts from the Podcasts Catalog, and play the most popular podcasts, organized for you by topic, with the all-new Top Stations feature.&lt;br/&gt;&lt;br/&gt;Features:&lt;br/&gt;&lt;br/&gt;• Enjoy all of your audio and video podcasts in a single app&lt;br/&gt;• Explore hundreds of thousands of podcasts including shows in over 40 languages&lt;br/&gt;• Try the innovative new Top Stations feature to find new podcast series in a variety of topics, including arts, business, comedy, music, news, sports, and more.&lt;br/&gt;• Browse by audio or video podcasts, or see what&amp;#39;s most popular in Top Charts&lt;br/&gt;• Tap Subscribe for your favorites and automatically receive new episodes for free as they become available&lt;br/&gt;• Stream episodes or download to listen while offline&lt;br/&gt;• Skip forward and back using simple playback controls&lt;br/&gt;• Turn on Sleep Timer to automatically stop playing a podcast while listening in bed&lt;br/&gt;• Share your favorite episodes with friends using Twitter, Messages, and Mail&lt;br/&gt;• Optionally sync your favorite episodes from iTunes on your Mac or PC&lt;br/&gt;• Sync your episode playback for seamless transition between devices&lt;br/&gt;&lt;br/&gt;Requirements:&lt;br/&gt;&lt;br/&gt;• Requires a device with iOS 5.1 or later&lt;br/&gt;• Optionally syncing episodes requires iTunes 10.6.3 or later&lt;br/&gt;• Streaming or downloading episodes requires Internet access over a Wi-Fi or cellular data connection&lt;/font&gt;&lt;br/&gt;
+
+
+
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; © 2012 Apple Inc.&lt;/font&gt;
+
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+
+			</entry>
+
+			<entry>
+				<updated>2012-10-24T06:57:35-07:00</updated>
+
+					<id im:id="466122094" im:bundleId="com.apple.mobileme.fmf1">https://itunes.apple.com/us/app/find-my-friends/id466122094?mt=8&amp;uo=2</id>
+
+					<title>Find My Friends - Apple</title>
+
+					<summary>Find My Friends allows you to easily locate your friends and family from your iPhone, iPad, or iPod touch. Install this free app on your device running iOS 5 or later and sign in with the Apple ID you use with iCloud. Adding a friend is easy — just send a request to see their location. Once your friend accepts using the Find My Friends app on their device, you will be able to see their location. And friends can request to see your location the same way. 
+
+If you prefer, you can also choose to share your location with a group of friends for a limited time.   Use Find My Friends to keep track of your traveling companions when you’re on vacation. Or to see if the kids are home from school. Or to meet up with friends for dinner.
+
+If you’re running iOS 6, you can also set up location-based alerts — to notify you when your kids leave school or a family member arrives home safely — or have Find My Friends notify others about your location. 
+ 
+FEATURES
+ • Easily locate friends and family
+ • Temporary sharing option 
+• Location-based alerts (requires iOS 6)
+ • Simple privacy controls
+ • Parental restrictions  
+• Free for iPhone, iPad, and iPod touch
+
+  Supported languages: English, Japanese, French, German, Dutch, Italian, Spanish, Portuguese, Danish, Finnish, Norwegian, Swedish, Korean, Chinese, Russian, Polish, Turkish, Ukrainian, Arabic, Croatian, Czech, Greek, Hebrew, Romanian, Slovak, Thai, Indonesian, Malay, Catalan, Hungarian, Vietnamese  
+
+REQUIREMENTS:
+
+ Requires iOS 5 or later and an iCloud account. You can create a free iCloud account on your iPhone, iPad, or iPod touch.
+</summary>
+
+					<im:name>Find My Friends</im:name>
+
+					<link rel="alternate" type="text/html" href="https://itunes.apple.com/us/app/find-my-friends/id466122094?mt=8&amp;uo=2"/>
+
+					<im:contentType term="Application" label="Application"/>
+
+					<category im:id="6005" term="Social Networking" scheme="https://itunes.apple.com/us/genre/ios-social-networking/id6005?mt=8&amp;uo=2" label="Social Networking"/>
+
+					<link title="Preview" rel="enclosure" type="image/jpeg" href="http://a1.mzstatic.com/us/r1000/094/Purple/v4/75/a1/ed/75a1ed5a-2c73-5cdd-d1fd-c7b1a6652f34/mzl.jzzhpyaq.1024x1024-65.jpg" im:assetType="preview"><im:duration>0</im:duration></link>
+
+					<im:artist href="https://itunes.apple.com/us/artist/apple/id284417353?mt=8&amp;uo=2">Apple</im:artist>
+
+					<im:price amount="0.00000" currency="USD">Free</im:price>
+
+					<im:image height="53">http://a603.phobos.apple.com/us/r1000/076/Purple/v4/65/51/00/65510079-de1e-fa99-9317-bfae84fd4d43/mzm.swxupvpn.53x53-50.png</im:image>
+
+					<im:image height="75">http://a1471.phobos.apple.com/us/r1000/076/Purple/v4/65/51/00/65510079-de1e-fa99-9317-bfae84fd4d43/mzm.swxupvpn.75x75-65.png</im:image>
+
+					<im:image height="100">http://a428.phobos.apple.com/us/r1000/076/Purple/v4/65/51/00/65510079-de1e-fa99-9317-bfae84fd4d43/mzm.swxupvpn.100x100-75.png</im:image>
+
+					<rights>&#169; 2012 Apple Inc.</rights>
+
+					<im:releaseDate label="October 12, 2011">2011-10-12T18:00:16-07:00</im:releaseDate>
+
+
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://itunes.apple.com/us/app/find-my-friends/id466122094?mt=8&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;Apple - Find My Friends artwork&quot; src=&quot;http://a428.phobos.apple.com/us/r1000/076/Purple/v4/65/51/00/65510079-de1e-fa99-9317-bfae84fd4d43/mzm.swxupvpn.100x100-75.png&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+
+
+                        &lt;b&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/find-my-friends/id466122094?mt=8&amp;uo=2&quot;&gt;Find My Friends&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+
+
+
+
+
+                        &lt;a href=&quot;https://itunes.apple.com/us/artist/apple/id284417353?mt=8&amp;amp;uo=2&quot;&gt;Apple&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+
+						 	&lt;br/&gt;
+                            &lt;b&gt;Genre:&lt;/b&gt; &lt;a href=&quot;https://itunes.apple.com/us/genre/ios-social-networking/id6005?mt=8&amp;uo=2&quot;&gt;Social Networking&lt;/a&gt;
+
+						 	&lt;br/&gt;
+                            &lt;b&gt;Release Date:&lt;/b&gt; October 12, 2011
+
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;&lt;br/&gt;Find My Friends allows you to easily locate your friends and family from your iPhone, iPad, or iPod touch. Install this free app on your device running iOS 5 or later and sign in with the Apple ID you use with iCloud. Adding a friend is easy — just send a request to see their location. Once your friend accepts using the Find My Friends app on their device, you will be able to see their location. And friends can request to see your location the same way. &lt;br/&gt;&lt;br/&gt;If you prefer, you can also choose to share your location with a group of friends for a limited time.   Use Find My Friends to keep track of your traveling companions when you’re on vacation. Or to see if the kids are home from school. Or to meet up with friends for dinner. &lt;br/&gt;&lt;br/&gt;If you’re running iOS 6, you can also set up location-based alerts — to notify you when your kids leave school or a family member arrives home safely — or have Find My Friends notify others about your location. &lt;br/&gt; &lt;br/&gt;FEATURES&lt;br/&gt; • Easily locate friends and family&lt;br/&gt; • Temporary sharing option &lt;br/&gt;• Location-based alerts (requires iOS 6)&lt;br/&gt; • Simple privacy controls&lt;br/&gt; • Parental restrictions  &lt;br/&gt;• Free for iPhone, iPad, and iPod touch&lt;br/&gt;&lt;br/&gt;  Supported languages: English, Japanese, French, German, Dutch, Italian, Spanish, Portuguese, Danish, Finnish, Norwegian, Swedish, Korean, Chinese, Russian, Polish, Turkish, Ukrainian, Arabic, Croatian, Czech, Greek, Hebrew, Romanian, Slovak, Thai, Indonesian, Malay, Catalan, Hungarian, Vietnamese  &lt;br/&gt;&lt;br/&gt;REQUIREMENTS:&lt;br/&gt;&lt;br/&gt; Requires iOS 5 or later and an iCloud account. You can create a free iCloud account on your iPhone, iPad, or iPod touch.&lt;br/&gt;&lt;/font&gt;&lt;br/&gt;
+
+
+
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; © 2012 Apple Inc.&lt;/font&gt;
+
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+
+			</entry>
+
+			<entry>
+				<updated>2012-10-24T06:57:35-07:00</updated>
+
+					<id im:id="376101648" im:bundleId="com.apple.mobileme.fmip1">https://itunes.apple.com/us/app/find-my-iphone/id376101648?mt=8&amp;uo=2</id>
+
+					<title>Find My iPhone - Apple</title>
+
+					<summary>If you misplace your iPhone, iPad, iPod touch, or Mac, the Find My iPhone app will let you use another iOS device to find it and protect your data. Simply install this free app on another iOS device, open it, and sign in with your Apple ID. Find My iPhone will help you locate your missing device on a map, play a sound, display a message, remotely lock your device, or erase all the data on it.
+
+If the iPhone, iPad, or iPod touch you want to locate is running iOS 6, Find My iPhone also includes Lost Mode. Lost Mode locks your missing device with a 4-digit passcode and can display a contact phone number right on the lock screen. And while in Lost Mode, your device will keep track of where it has been and display its recent location history when you check in with the Find My iPhone app.  Please note that Find My iPhone must be enabled in the iCloud settings on your device for you to locate it with this app.  
+
+FEATURES
+
+  • Locate your iPhone, iPad, iPod touch, or Mac on a map
+  • Display a custom message on the screen  
+• Play a sound for two minutes at full volume (even if your device is set to silent)  
+• Remotely lock your device  
+• Remotely wipe your device to erase your personal data
+• Lost Mode (for devices running iOS 6 or later)   
+
+Supported languages: English, Japanese, French, German, Dutch, Italian, Spanish, Portuguese, Danish, Finnish, Norwegian, Swedish, Korean, Chinese, Russian, Polish, Turkish, Ukrainian, Arabic, Croatian, Czech, Greek, Hebrew, Romanian, Slovak, Thai, Indonesian, Malay, Catalan, Hungarian, Vietnamese  
+
+REQUIREMENTS:
+  • Requires iOS 5 or later and an iCloud account. You can create a free iCloud account on your iPhone, iPad, or iPod touch. 
+• Internet connection is required. To be located, your iPad with Wi-Fi, iPod touch, or Mac must be connected via a registered Wi-Fi network. Your Mac must also be awake.
+</summary>
+
+					<im:name>Find My iPhone</im:name>
+
+					<link rel="alternate" type="text/html" href="https://itunes.apple.com/us/app/find-my-iphone/id376101648?mt=8&amp;uo=2"/>
+
+					<im:contentType term="Application" label="Application"/>
+
+					<category im:id="6002" term="Utilities" scheme="https://itunes.apple.com/us/genre/ios-utilities/id6002?mt=8&amp;uo=2" label="Utilities"/>
+
+					<link title="Preview" rel="enclosure" type="image/jpeg" href="http://a4.mzstatic.com/us/r1000/079/Purple/v4/af/56/bc/af56bce0-2e0c-259c-0667-4f31c89905bc/mzl.lepfncel.1024x1024-65.jpg" im:assetType="preview"><im:duration>0</im:duration></link>
+
+					<im:artist href="https://itunes.apple.com/us/artist/apple/id284417353?mt=8&amp;uo=2">Apple</im:artist>
+
+					<im:price amount="0.00000" currency="USD">Free</im:price>
+
+					<im:image height="53">http://a402.phobos.apple.com/us/r1000/076/Purple/v4/6a/68/91/6a68916b-da87-eef1-7b91-36e1eb89a411/mzm.fqlhldwq.53x53-50.png</im:image>
+
+					<im:image height="75">http://a1270.phobos.apple.com/us/r1000/076/Purple/v4/6a/68/91/6a68916b-da87-eef1-7b91-36e1eb89a411/mzm.fqlhldwq.75x75-65.png</im:image>
+
+					<im:image height="100">http://a1715.phobos.apple.com/us/r1000/076/Purple/v4/6a/68/91/6a68916b-da87-eef1-7b91-36e1eb89a411/mzm.fqlhldwq.100x100-75.png</im:image>
+
+					<rights>&#169; 2012 Apple Inc.</rights>
+
+					<im:releaseDate label="June 18, 2010">2010-06-18T00:52:43-07:00</im:releaseDate>
+
+
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://itunes.apple.com/us/app/find-my-iphone/id376101648?mt=8&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;Apple - Find My iPhone artwork&quot; src=&quot;http://a1715.phobos.apple.com/us/r1000/076/Purple/v4/6a/68/91/6a68916b-da87-eef1-7b91-36e1eb89a411/mzm.fqlhldwq.100x100-75.png&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+
+
+                        &lt;b&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/find-my-iphone/id376101648?mt=8&amp;uo=2&quot;&gt;Find My iPhone&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+
+
+
+
+
+                        &lt;a href=&quot;https://itunes.apple.com/us/artist/apple/id284417353?mt=8&amp;amp;uo=2&quot;&gt;Apple&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+
+						 	&lt;br/&gt;
+                            &lt;b&gt;Genre:&lt;/b&gt; &lt;a href=&quot;https://itunes.apple.com/us/genre/ios-utilities/id6002?mt=8&amp;uo=2&quot;&gt;Utilities&lt;/a&gt;
+
+						 	&lt;br/&gt;
+                            &lt;b&gt;Release Date:&lt;/b&gt; June 18, 2010
+
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;&lt;br/&gt;If you misplace your iPhone, iPad, iPod touch, or Mac, the Find My iPhone app will let you use another iOS device to find it and protect your data. Simply install this free app on another iOS device, open it, and sign in with your Apple ID. Find My iPhone will help you locate your missing device on a map, play a sound, display a message, remotely lock your device, or erase all the data on it.&lt;br/&gt;&lt;br/&gt;If the iPhone, iPad, or iPod touch you want to locate is running iOS 6, Find My iPhone also includes Lost Mode. Lost Mode locks your missing device with a 4-digit passcode and can display a contact phone number right on the lock screen. And while in Lost Mode, your device will keep track of where it has been and display its recent location history when you check in with the Find My iPhone app.  Please note that Find My iPhone must be enabled in the iCloud settings on your device for you to locate it with this app.  &lt;br/&gt;&lt;br/&gt;FEATURES&lt;br/&gt;&lt;br/&gt;  • Locate your iPhone, iPad, iPod touch, or Mac on a map&lt;br/&gt;  • Display a custom message on the screen  &lt;br/&gt;• Play a sound for two minutes at full volume (even if your device is set to silent)  &lt;br/&gt;• Remotely lock your device  &lt;br/&gt;• Remotely wipe your device to erase your personal data&lt;br/&gt;• Lost Mode (for devices running iOS 6 or later)   &lt;br/&gt;&lt;br/&gt;Supported languages: English, Japanese, French, German, Dutch, Italian, Spanish, Portuguese, Danish, Finnish, Norwegian, Swedish, Korean, Chinese, Russian, Polish, Turkish, Ukrainian, Arabic, Croatian, Czech, Greek, Hebrew, Romanian, Slovak, Thai, Indonesian, Malay, Catalan, Hungarian, Vietnamese  &lt;br/&gt;&lt;br/&gt;REQUIREMENTS:&lt;br/&gt;  • Requires iOS 5 or later and an iCloud account. You can create a free iCloud account on your iPhone, iPad, or iPod touch. &lt;br/&gt;• Internet connection is required. To be located, your iPad with Wi-Fi, iPod touch, or Mac must be connected via a registered Wi-Fi network. Your Mac must also be awake.&lt;br/&gt;&lt;/font&gt;&lt;br/&gt;
+
+
+
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; © 2012 Apple Inc.&lt;/font&gt;
+
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+
+			</entry>
+
+			<entry>
+				<updated>2012-10-24T06:57:35-07:00</updated>
+
+					<id im:id="490217893" im:bundleId="com.apple.itunesu">https://itunes.apple.com/us/app/itunes-u/id490217893?mt=8&amp;uo=2</id>
+
+					<title>iTunes U - Apple</title>
+
+					<summary>The iTunes U app gives you access to complete courses from leading universities and other schools — plus the world’s largest digital catalog of free education content — right on your iPad, iPhone, or iPod touch. Whether you’re majoring in molecular biology at a university, taking Spanish in high school, or just interested in European history, you now have a valuable tool to help you learn anytime, anywhere.
+
+Features:
+
+Free courses in a wide array of subjects
+• Take free courses created and taught by instructors from leading universities and other schools
+• See all assignments and updates from the instructor in one place, and check off assignments as you complete them
+• Take notes and highlight text in iBooks and see them consolidated for easy reviewing in the iTunes U app
+• Take course notes in class, or while playing audio or video lectures inside of iTunes U
+• Access course materials, including audio, video, books, documents &amp; presentations, apps, and new iBooks textbooks for iPad
+• Share your favorite courses with friends using Twitter, Mail, and Messages
+
+The world’s largest catalog of free education content
+• Choose from more than 500,000 free lectures, videos, books, and other resources on thousands of subjects from Algebra to Zoology
+• Browse collections from education and cultural institutions in 26 countries — including Stanford, Yale, MIT, Oxford,
+   UC Berkeley, MoMA, the New York Public Library, and the Library of Congress
+
+Requirements:
+
+• iPhone, iPad, or iPod touch with iOS 5 or later
+• An Apple ID set up for use on the iTunes Store
+• iTunes 10.5.2 or later is required to sync with a computer
+• The selection of courses, collections, and availability of content linked from within a course may vary by country</summary>
+
+					<im:name>iTunes U</im:name>
+
+					<link rel="alternate" type="text/html" href="https://itunes.apple.com/us/app/itunes-u/id490217893?mt=8&amp;uo=2"/>
+
+					<im:contentType term="Application" label="Application"/>
+
+					<category im:id="6017" term="Education" scheme="https://itunes.apple.com/us/genre/ios-education/id6017?mt=8&amp;uo=2" label="Education"/>
+
+					<link title="Preview" rel="enclosure" type="image/jpeg" href="http://a4.mzstatic.com/us/r1000/103/Purple/v4/60/e2/6d/60e26d59-cc71-c49c-e0e8-d6cc71bcb850/mzl.aaizrsmb.1024x1024-65.jpg" im:assetType="preview"><im:duration>0</im:duration></link>
+
+					<im:artist href="https://itunes.apple.com/us/artist/apple/id284417353?mt=8&amp;uo=2">Apple</im:artist>
+
+					<im:price amount="0.00000" currency="USD">Free</im:price>
+
+					<im:image height="53">http://a68.phobos.apple.com/us/r1000/105/Purple/v4/79/88/4f/79884f30-5d99-1dd5-bc53-21f2f154bbba/mza_7060142955371990044.53x53-50.png</im:image>
+
+					<im:image height="75">http://a584.phobos.apple.com/us/r1000/105/Purple/v4/79/88/4f/79884f30-5d99-1dd5-bc53-21f2f154bbba/mza_7060142955371990044.75x75-65.png</im:image>
+
+					<im:image height="100">http://a293.phobos.apple.com/us/r1000/105/Purple/v4/79/88/4f/79884f30-5d99-1dd5-bc53-21f2f154bbba/mza_7060142955371990044.100x100-75.png</im:image>
+
+					<rights>&#169; 2012 Apple Inc.</rights>
+
+					<im:releaseDate label="January 19, 2012">2012-01-19T08:30:33-07:00</im:releaseDate>
+
+
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://itunes.apple.com/us/app/itunes-u/id490217893?mt=8&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;Apple - iTunes U artwork&quot; src=&quot;http://a293.phobos.apple.com/us/r1000/105/Purple/v4/79/88/4f/79884f30-5d99-1dd5-bc53-21f2f154bbba/mza_7060142955371990044.100x100-75.png&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+
+
+                        &lt;b&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/itunes-u/id490217893?mt=8&amp;uo=2&quot;&gt;iTunes U&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+
+
+
+
+
+                        &lt;a href=&quot;https://itunes.apple.com/us/artist/apple/id284417353?mt=8&amp;amp;uo=2&quot;&gt;Apple&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+
+						 	&lt;br/&gt;
+                            &lt;b&gt;Genre:&lt;/b&gt; &lt;a href=&quot;https://itunes.apple.com/us/genre/ios-education/id6017?mt=8&amp;uo=2&quot;&gt;Education&lt;/a&gt;
+
+						 	&lt;br/&gt;
+                            &lt;b&gt;Release Date:&lt;/b&gt; January 19, 2012
+
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;&lt;br/&gt;The iTunes U app gives you access to complete courses from leading universities and other schools — plus the world’s largest digital catalog of free education content — right on your iPad, iPhone, or iPod touch. Whether you’re majoring in molecular biology at a university, taking Spanish in high school, or just interested in European history, you now have a valuable tool to help you learn anytime, anywhere.&lt;br/&gt;&lt;br/&gt;Features:&lt;br/&gt;&lt;br/&gt;Free courses in a wide array of subjects&lt;br/&gt;• Take free courses created and taught by instructors from leading universities and other schools&lt;br/&gt;• See all assignments and updates from the instructor in one place, and check off assignments as you complete them&lt;br/&gt;• Take notes and highlight text in iBooks and see them consolidated for easy reviewing in the iTunes U app&lt;br/&gt;• Take course notes in class, or while playing audio or video lectures inside of iTunes U&lt;br/&gt;• Access course materials, including audio, video, books, documents &amp;amp; presentations, apps, and new iBooks textbooks for iPad&lt;br/&gt;• Share your favorite courses with friends using Twitter, Mail, and Messages&lt;br/&gt;&lt;br/&gt;The world’s largest catalog of free education content&lt;br/&gt;• Choose from more than 500,000 free lectures, videos, books, and other resources on thousands of subjects from Algebra to Zoology&lt;br/&gt;• Browse collections from education and cultural institutions in 26 countries — including Stanford, Yale, MIT, Oxford, &lt;br/&gt;   UC Berkeley, MoMA, the New York Public Library, and the Library of Congress&lt;br/&gt;&lt;br/&gt;Requirements:&lt;br/&gt;&lt;br/&gt;• iPhone, iPad, or iPod touch with iOS 5 or later&lt;br/&gt;• An Apple ID set up for use on the iTunes Store&lt;br/&gt;• iTunes 10.5.2 or later is required to sync with a computer&lt;br/&gt;• The selection of courses, collections, and availability of content linked from within a course may vary by country&lt;/font&gt;&lt;br/&gt;
+
+
+
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; © 2012 Apple Inc.&lt;/font&gt;
+
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+
+			</entry>
+
+			<entry>
+				<updated>2012-10-24T06:57:35-07:00</updated>
+
+					<id im:id="389801252" im:bundleId="com.burbn.instagram">https://itunes.apple.com/us/app/instagram/id389801252?mt=8&amp;uo=2</id>
+
+					<title>Instagram - Burbn, Inc.</title>
+
+					<summary>★ ★ ★ ★ ★ Instagram
+
+80 million users love Instagram! It&#39;s a free, fun, and simple way to make and share gorgeous photos on your iPhone.
+
+Pick from one of several gorgeous filtered effects or tilt-shift blur to breathe a new life into your mobile photos. Transform everyday moments into works of art you&#39;ll want to share with friends and family.
+
+Share your photos in a simple photo stream with friends to see - and follow your friends&#39; photos with the click of a single button. Every day you open up Instagram, you&#39;ll see new photos from your closest friends, and creative people from around the world.
+
+Features
+
+☆ 100% free custom designed filters and borders such as XPro-II, Earlybird, Rise, Amaro, Hudson, Lo-fi, Sutro, Toaster, Brannan, Inkwell, Walden, Hefe, Nashville, 1977, and others.
+☆ Linear and Radial Tilt-Shift blur effects for extra depth of field.
+☆ Instant sharing to Facebook, Twitter, Flickr, Tumblr, Foursquare, and Posterous
+☆ Unlimited uploads
+☆ Interact with friends through giving &amp; receiving likes and comments
+☆ Full iPhone 4 front &amp; back camera support
+☆ And much much more...</summary>
+
+					<im:name>Instagram</im:name>
+
+					<link rel="alternate" type="text/html" href="https://itunes.apple.com/us/app/instagram/id389801252?mt=8&amp;uo=2"/>
+
+					<im:contentType term="Application" label="Application"/>
+
+					<category im:id="6008" term="Photo &amp; Video" scheme="https://itunes.apple.com/us/genre/ios-photo-video/id6008?mt=8&amp;uo=2" label="Photo &amp; Video"/>
+
+					<link title="Preview" rel="enclosure" type="image/jpeg" href="http://a2.mzstatic.com/us/r1000/081/Purple/v4/55/f2/ad/55f2adf7-fbbc-e746-aa3f-6e7d69a2e1ff/mzl.bdfzwcuk.320x480-75.jpg" im:assetType="preview"><im:duration>0</im:duration></link>
+
+					<im:artist href="https://itunes.apple.com/us/artist/burbn-inc./id389801255?mt=8&amp;uo=2">Burbn, Inc.</im:artist>
+
+					<im:price amount="0.00000" currency="USD">Free</im:price>
+
+					<im:image height="53">http://a850.phobos.apple.com/us/r1000/066/Purple/v4/27/3f/56/273f5658-6a63-a8bd-2148-5b7f6ccbc8c7/mza_4997397705500080190.53x53-50.png</im:image>
+
+					<im:image height="75">http://a1718.phobos.apple.com/us/r1000/066/Purple/v4/27/3f/56/273f5658-6a63-a8bd-2148-5b7f6ccbc8c7/mza_4997397705500080190.75x75-65.png</im:image>
+
+					<im:image height="100">http://a195.phobos.apple.com/us/r1000/066/Purple/v4/27/3f/56/273f5658-6a63-a8bd-2148-5b7f6ccbc8c7/mza_4997397705500080190.100x100-75.png</im:image>
+
+					<rights>&#169; 2011 Burbn, Inc.</rights>
+
+					<im:releaseDate label="October 6, 2010">2010-10-06T01:12:41-07:00</im:releaseDate>
+
+
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://itunes.apple.com/us/app/instagram/id389801252?mt=8&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;Burbn, Inc. - Instagram artwork&quot; src=&quot;http://a195.phobos.apple.com/us/r1000/066/Purple/v4/27/3f/56/273f5658-6a63-a8bd-2148-5b7f6ccbc8c7/mza_4997397705500080190.100x100-75.png&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+
+
+                        &lt;b&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/instagram/id389801252?mt=8&amp;uo=2&quot;&gt;Instagram&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+
+
+
+
+
+                        &lt;a href=&quot;https://itunes.apple.com/us/artist/burbn-inc./id389801255?mt=8&amp;amp;uo=2&quot;&gt;Burbn, Inc.&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+
+						 	&lt;br/&gt;
+                            &lt;b&gt;Genre:&lt;/b&gt; &lt;a href=&quot;https://itunes.apple.com/us/genre/ios-photo-video/id6008?mt=8&amp;uo=2&quot;&gt;Photo &amp; Video&lt;/a&gt;
+
+						 	&lt;br/&gt;
+                            &lt;b&gt;Release Date:&lt;/b&gt; October 6, 2010
+
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;&lt;br/&gt;★ ★ ★ ★ ★ Instagram&lt;br/&gt;&lt;br/&gt;80 million users love Instagram! It&amp;#39;s a free, fun, and simple way to make and share gorgeous photos on your iPhone.&lt;br/&gt;&lt;br/&gt;Pick from one of several gorgeous filtered effects or tilt-shift blur to breathe a new life into your mobile photos. Transform everyday moments into works of art you&amp;#39;ll want to share with friends and family.&lt;br/&gt;&lt;br/&gt;Share your photos in a simple photo stream with friends to see - and follow your friends&amp;#39; photos with the click of a single button. Every day you open up Instagram, you&amp;#39;ll see new photos from your closest friends, and creative people from around the world.&lt;br/&gt;&lt;br/&gt;Features&lt;br/&gt;&lt;br/&gt;☆ 100% free custom designed filters and borders such as XPro-II, Earlybird, Rise, Amaro, Hudson, Lo-fi, Sutro, Toaster, Brannan, Inkwell, Walden, Hefe, Nashville, 1977, and others.&lt;br/&gt;☆ Linear and Radial Tilt-Shift blur effects for extra depth of field.&lt;br/&gt;☆ Instant sharing to Facebook, Twitter, Flickr, Tumblr, Foursquare, and Posterous&lt;br/&gt;☆ Unlimited uploads&lt;br/&gt;☆ Interact with friends through giving &amp;amp; receiving likes and comments&lt;br/&gt;☆ Full iPhone 4 front &amp;amp; back camera support&lt;br/&gt;☆ And much much more...&lt;/font&gt;&lt;br/&gt;
+
+
+
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; © 2011 Burbn, Inc.&lt;/font&gt;
+
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+
+			</entry>
+
+			<entry>
+				<updated>2012-10-24T06:57:35-07:00</updated>
+
+					<id im:id="567250781" im:bundleId="com.iddiction.obamney">https://itunes.apple.com/us/app/obamney/id567250781?mt=8&amp;uo=2</id>
+
+					<title>Obamney - Iddiction</title>
+
+					<summary>Election Special: Obamney is FREE for a limited time - Sponsored by APPODAY (Save $1.99)
+Download APPODAY to get more premium apps like Obamney for FREE.
+
+&#34;The #1 app for the 2012 election“ ★★★★★
+
+***DON&#39;T FORGET TO VOTE NOVEMBER 6TH***
+
+Politicians are funny. So are your pictures. Obamney puts em together for a presidential laugh riot!
+
+OBAMNEY FOR PRESIDENT
+✓Obama, Romney, Michelle, Ryan
+✓Tons of hilarious reactions
+✓Pinch, zoom, scale, and rotate
+
+MADE FOR THE WHITEHOUSE
+✓Use blur to change depth
+✓Perfect for basically any photo
+✓Unlimited possibilities
+
+FAMOUS PEOPLE LOVE IT
+“Better than a slap in the face” - Bro Biden
+“I haven’t laughed this hard in a while” - Condoleezza Price
+ “Um what is this?” - Sarah Bailin
+
+FEEDBACK
+Are you voting for Obamney? Let us know at obamney@iddiction.com
+
+FOLLOW US
+Instagram: @obamney
+Web: http://iddiction.com/obamney
+Twitter: http://twitter.com/obamney2012
+Facebook: http://www.facebook.com/obamneyapp</summary>
+
+					<im:name>Obamney</im:name>
+
+					<link rel="alternate" type="text/html" href="https://itunes.apple.com/us/app/obamney/id567250781?mt=8&amp;uo=2"/>
+
+					<im:contentType term="Application" label="Application"/>
+
+					<category im:id="6016" term="Entertainment" scheme="https://itunes.apple.com/us/genre/ios-entertainment/id6016?mt=8&amp;uo=2" label="Entertainment"/>
+
+					<link title="Preview" rel="enclosure" type="image/jpeg" href="http://a4.mzstatic.com/us/r1000/094/Purple/v4/b2/78/99/b27899f3-7273-86d5-2d91-acf368cfec6c/mzl.nkiuoeoy.320x480-75.jpg" im:assetType="preview"><im:duration>0</im:duration></link>
+
+					<im:artist href="https://itunes.apple.com/us/artist/iddiction/id492105100?mt=8&amp;uo=2">Iddiction</im:artist>
+
+					<im:price amount="0.00000" currency="USD">Free</im:price>
+
+					<im:image height="53">http://a1295.phobos.apple.com/us/r1000/085/Purple/v4/03/37/51/03375113-7ed1-ad62-b712-c876246d9f6f/mzm.olxceftr.53x53-50.png</im:image>
+
+					<im:image height="75">http://a163.phobos.apple.com/us/r1000/085/Purple/v4/03/37/51/03375113-7ed1-ad62-b712-c876246d9f6f/mzm.olxceftr.75x75-65.png</im:image>
+
+					<im:image height="100">http://a1504.phobos.apple.com/us/r1000/085/Purple/v4/03/37/51/03375113-7ed1-ad62-b712-c876246d9f6f/mzm.olxceftr.100x100-75.png</im:image>
+
+					<rights>&#169; Iddiction</rights>
+
+					<im:releaseDate label="October 17, 2012">2012-10-17T21:03:15-07:00</im:releaseDate>
+
+
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://itunes.apple.com/us/app/obamney/id567250781?mt=8&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;Iddiction - Obamney artwork&quot; src=&quot;http://a1504.phobos.apple.com/us/r1000/085/Purple/v4/03/37/51/03375113-7ed1-ad62-b712-c876246d9f6f/mzm.olxceftr.100x100-75.png&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+
+
+                        &lt;b&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/obamney/id567250781?mt=8&amp;uo=2&quot;&gt;Obamney&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+
+
+
+
+
+                        &lt;a href=&quot;https://itunes.apple.com/us/artist/iddiction/id492105100?mt=8&amp;amp;uo=2&quot;&gt;Iddiction&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+
+						 	&lt;br/&gt;
+                            &lt;b&gt;Genre:&lt;/b&gt; &lt;a href=&quot;https://itunes.apple.com/us/genre/ios-entertainment/id6016?mt=8&amp;uo=2&quot;&gt;Entertainment&lt;/a&gt;
+
+						 	&lt;br/&gt;
+                            &lt;b&gt;Release Date:&lt;/b&gt; October 17, 2012
+
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;&lt;br/&gt;Election Special: Obamney is FREE for a limited time - Sponsored by APPODAY (Save $1.99)&lt;br/&gt;Download APPODAY to get more premium apps like Obamney for FREE.&lt;br/&gt;&lt;br/&gt;&amp;#34;The #1 app for the 2012 election“ ★★★★★&lt;br/&gt;&lt;br/&gt;***DON&amp;#39;T FORGET TO VOTE NOVEMBER 6TH***&lt;br/&gt;&lt;br/&gt;Politicians are funny. So are your pictures. Obamney puts em together for a presidential laugh riot!&lt;br/&gt;&lt;br/&gt;OBAMNEY FOR PRESIDENT&lt;br/&gt;✓Obama, Romney, Michelle, Ryan&lt;br/&gt;✓Tons of hilarious reactions&lt;br/&gt;✓Pinch, zoom, scale, and rotate&lt;br/&gt;&lt;br/&gt;MADE FOR THE WHITEHOUSE &lt;br/&gt;✓Use blur to change depth&lt;br/&gt;✓Perfect for basically any photo&lt;br/&gt;✓Unlimited possibilities &lt;br/&gt;&lt;br/&gt;FAMOUS PEOPLE LOVE IT &lt;br/&gt;“Better than a slap in the face” - Bro Biden&lt;br/&gt;“I haven’t laughed this hard in a while” - Condoleezza Price&lt;br/&gt; “Um what is this?” - Sarah Bailin&lt;br/&gt;&lt;br/&gt;FEEDBACK &lt;br/&gt;Are you voting for Obamney? Let us know at obamney@iddiction.com &lt;br/&gt;&lt;br/&gt;FOLLOW US &lt;br/&gt;Instagram: @obamney &lt;br/&gt;Web: http://iddiction.com/obamney &lt;br/&gt;Twitter: http://twitter.com/obamney2012 &lt;br/&gt;Facebook: http://www.facebook.com/obamneyapp&lt;/font&gt;&lt;br/&gt;
+
+
+
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; © Iddiction&lt;/font&gt;
+
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+
+			</entry>
+
+			<entry>
+				<updated>2012-10-24T06:57:35-07:00</updated>
+
+					<id im:id="381471023" im:bundleId="com.ihandysoft.flashlight.led.pro">https://itunes.apple.com/us/app/flashlight-o/id381471023?mt=8&amp;uo=2</id>
+
+					<title>Flashlight Ⓞ - iHandy Inc.</title>
+
+					<summary>Bright. Fast. Simple. The most elegant and functional flashlight app, ever! And it&#39;s the ONLY flashlight app that goes with a compass, giving you the direction in the darkness. Don&#39;t miss it!
+
+Features:
+
+• Brightest Flashlight instantly ON
+• Always-On compass
+• Strobe mode with 10 different frequencies
+• Built-in SOS signal
+• Intuitive and elegant UI design
+
+Continued use of the flash may dramatically decrease battery life.</summary>
+
+					<im:name>Flashlight Ⓞ</im:name>
+
+					<link rel="alternate" type="text/html" href="https://itunes.apple.com/us/app/flashlight-o/id381471023?mt=8&amp;uo=2"/>
+
+					<im:contentType term="Application" label="Application"/>
+
+					<category im:id="6002" term="Utilities" scheme="https://itunes.apple.com/us/genre/ios-utilities/id6002?mt=8&amp;uo=2" label="Utilities"/>
+
+					<link title="Preview" rel="enclosure" type="image/jpeg" href="http://a2.mzstatic.com/us/r1000/106/Purple/v4/80/e2/24/80e224b0-0baf-0669-c8c9-094dc1aa351f/mzl.molwcesz.320x480-75.jpg" im:assetType="preview"><im:duration>0</im:duration></link>
+
+					<im:artist href="https://itunes.apple.com/us/artist/ihandy-inc./id291242250?mt=8&amp;uo=2">iHandy Inc.</im:artist>
+
+					<im:price amount="0.00000" currency="USD">Free</im:price>
+
+					<im:image height="53">http://a177.phobos.apple.com/us/r1000/079/Purple/v4/14/97/73/1497736f-9949-02b6-4673-b21dca7526b8/mzl.zqobukks.53x53-50.png</im:image>
+
+					<im:image height="75">http://a693.phobos.apple.com/us/r1000/079/Purple/v4/14/97/73/1497736f-9949-02b6-4673-b21dca7526b8/mzl.zqobukks.75x75-65.png</im:image>
+
+					<im:image height="100">http://a1666.phobos.apple.com/us/r1000/079/Purple/v4/14/97/73/1497736f-9949-02b6-4673-b21dca7526b8/mzl.zqobukks.100x100-75.png</im:image>
+
+					<rights>&#169; 2012 iHandySoft Inc.</rights>
+
+					<im:releaseDate label="October 8, 2010">2010-10-08T17:54:24-07:00</im:releaseDate>
+
+
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://itunes.apple.com/us/app/flashlight-o/id381471023?mt=8&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;iHandy Inc. - Flashlight Ⓞ artwork&quot; src=&quot;http://a1666.phobos.apple.com/us/r1000/079/Purple/v4/14/97/73/1497736f-9949-02b6-4673-b21dca7526b8/mzl.zqobukks.100x100-75.png&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+
+
+                        &lt;b&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/flashlight-o/id381471023?mt=8&amp;uo=2&quot;&gt;Flashlight Ⓞ&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+
+
+
+
+
+                        &lt;a href=&quot;https://itunes.apple.com/us/artist/ihandy-inc./id291242250?mt=8&amp;amp;uo=2&quot;&gt;iHandy Inc.&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+
+						 	&lt;br/&gt;
+                            &lt;b&gt;Genre:&lt;/b&gt; &lt;a href=&quot;https://itunes.apple.com/us/genre/ios-utilities/id6002?mt=8&amp;uo=2&quot;&gt;Utilities&lt;/a&gt;
+
+						 	&lt;br/&gt;
+                            &lt;b&gt;Release Date:&lt;/b&gt; October 8, 2010
+
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;&lt;br/&gt;Bright. Fast. Simple. The most elegant and functional flashlight app, ever! And it&amp;#39;s the ONLY flashlight app that goes with a compass, giving you the direction in the darkness. Don&amp;#39;t miss it!&lt;br/&gt;&lt;br/&gt;Features:&lt;br/&gt;&lt;br/&gt;• Brightest Flashlight instantly ON&lt;br/&gt;• Always-On compass&lt;br/&gt;• Strobe mode with 10 different frequencies&lt;br/&gt;• Built-in SOS signal&lt;br/&gt;• Intuitive and elegant UI design&lt;br/&gt;&lt;br/&gt;Continued use of the flash may dramatically decrease battery life.&lt;/font&gt;&lt;br/&gt;
+
+
+
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; © 2012 iHandySoft Inc.&lt;/font&gt;
+
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+
+			</entry>
+
+			<entry>
+				<updated>2012-10-24T06:57:35-07:00</updated>
+
+					<id im:id="487225881" im:bundleId="com.factyle.cinemagram">https://itunes.apple.com/us/app/cinemagram/id487225881?mt=8&amp;uo=2</id>
+
+					<title>Cinemagram - Factyle</title>
+
+					<summary>★★★★★ Create beautiful animations
+
+Create a stunning hybrid between photo and video. Animate small portions of your photo to create a magical image that&#39;s part-photo and part-video. Apply vintage / cross processing filters, and share your masterful creation.
+
+♥♥ Loved by: The Next Web, Techcrunch, Gizmodo, Mashable and many others.
+
+How it works:
+1. film a short video clip 2-3s
+2. Animate a small region
+3. Apply awesome  xpro, vintage filters
+4. Share to Twitter/Tumblr and Facebook</summary>
+
+					<im:name>Cinemagram</im:name>
+
+					<link rel="alternate" type="text/html" href="https://itunes.apple.com/us/app/cinemagram/id487225881?mt=8&amp;uo=2"/>
+
+					<im:contentType term="Application" label="Application"/>
+
+					<category im:id="6008" term="Photo &amp; Video" scheme="https://itunes.apple.com/us/genre/ios-photo-video/id6008?mt=8&amp;uo=2" label="Photo &amp; Video"/>
+
+					<link title="Preview" rel="enclosure" type="image/jpeg" href="http://a3.mzstatic.com/us/r1000/067/Purple/v4/2e/66/fa/2e66fa14-9056-6328-a75b-a0e18cf63dfe/mzl.zwpzxsnk.320x480-75.jpg" im:assetType="preview"><im:duration>0</im:duration></link>
+
+					<im:artist href="https://itunes.apple.com/us/artist/factyle/id378501962?mt=8&amp;uo=2">Factyle</im:artist>
+
+					<im:price amount="0.00000" currency="USD">Free</im:price>
+
+					<im:image height="53">http://a1169.phobos.apple.com/us/r1000/085/Purple/v4/66/cd/be/66cdbef3-d34d-f81d-3fbd-8a4bebe28064/mzl.vqetdxmq.53x53-50.png</im:image>
+
+					<im:image height="75">http://a1685.phobos.apple.com/us/r1000/085/Purple/v4/66/cd/be/66cdbef3-d34d-f81d-3fbd-8a4bebe28064/mzl.vqetdxmq.75x75-65.png</im:image>
+
+					<im:image height="100">http://a1746.phobos.apple.com/us/r1000/085/Purple/v4/66/cd/be/66cdbef3-d34d-f81d-3fbd-8a4bebe28064/mzl.vqetdxmq.100x100-75.png</im:image>
+
+					<rights>&#169; Factyle Inc.</rights>
+
+					<im:releaseDate label="February 8, 2012">2012-02-08T15:32:01-07:00</im:releaseDate>
+
+
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://itunes.apple.com/us/app/cinemagram/id487225881?mt=8&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;Factyle - Cinemagram artwork&quot; src=&quot;http://a1746.phobos.apple.com/us/r1000/085/Purple/v4/66/cd/be/66cdbef3-d34d-f81d-3fbd-8a4bebe28064/mzl.vqetdxmq.100x100-75.png&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+
+
+                        &lt;b&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/cinemagram/id487225881?mt=8&amp;uo=2&quot;&gt;Cinemagram&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+
+
+
+
+
+                        &lt;a href=&quot;https://itunes.apple.com/us/artist/factyle/id378501962?mt=8&amp;amp;uo=2&quot;&gt;Factyle&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+
+						 	&lt;br/&gt;
+                            &lt;b&gt;Genre:&lt;/b&gt; &lt;a href=&quot;https://itunes.apple.com/us/genre/ios-photo-video/id6008?mt=8&amp;uo=2&quot;&gt;Photo &amp; Video&lt;/a&gt;
+
+						 	&lt;br/&gt;
+                            &lt;b&gt;Release Date:&lt;/b&gt; February 8, 2012
+
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;&lt;br/&gt;★★★★★ Create beautiful animations&lt;br/&gt;&lt;br/&gt;Create a stunning hybrid between photo and video. Animate small portions of your photo to create a magical image that&amp;#39;s part-photo and part-video. Apply vintage / cross processing filters, and share your masterful creation.&lt;br/&gt;&lt;br/&gt;♥♥ Loved by: The Next Web, Techcrunch, Gizmodo, Mashable and many others.&lt;br/&gt;&lt;br/&gt;How it works:&lt;br/&gt;1. film a short video clip 2-3s&lt;br/&gt;2. Animate a small region&lt;br/&gt;3. Apply awesome  xpro, vintage filters&lt;br/&gt;4. Share to Twitter/Tumblr and Facebook&lt;/font&gt;&lt;br/&gt;
+
+
+
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; © Factyle Inc.&lt;/font&gt;
+
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+
+			</entry>
+
+	</feed>

@@ -1,0 +1,16 @@
+{
+    "name": "adrienbrault/itunes-client",
+    "require": {
+        "php": ">=5.3.3",
+        "guzzle/guzzle": "*"
+    },
+    "require-dev": {
+        "fabpot/php-cs-fixer": "*"
+    },
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-0": {
+            "AdrienBrault\\ItunesClient": "src/"
+        }
+    }
+}
