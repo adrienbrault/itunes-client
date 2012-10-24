@@ -8,6 +8,9 @@
         "fabpot/php-cs-fixer": "*"
     },
     "minimum-stability": "dev",
+    "config": {
+        "bin-dir": "bin"
+    },
     "autoload": {
         "psr-0": {
             "AdrienBrault\\ItunesClient": "src/"
