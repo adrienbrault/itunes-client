@@ -8,7 +8,8 @@ See http://itunes.apple.com/rss?cc=EN
 Example usages
 ==============
 
-* examples/feed.php output:
+- [examples/feed.php](https://github.com/adrienbrault/itunes-client/blob/master/examples/feed.php) output:
+
 ```
 Top 10 paid ios application in the US:
 ======================================
@@ -25,7 +26,8 @@ Top 10 paid ios application in the US:
 - MyCalendar Mobile - K-Factor Media, LLC.
 ```
 
-* examples/lookup.php output:
+- [examples/lookup.php](https://github.com/adrienbrault/itunes-client/blob/master/examples/lookup.php) output:
+
 ```
 Lookup angry birds original+seasons+space in the GB store:
 ==========================================================
