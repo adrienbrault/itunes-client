@@ -10,7 +10,7 @@ use Guzzle\Service\Description\Operation;
  *
  * @link http://itunes.apple.com/rss?cc=EN
  */
-class GetFeedCommand extends OperationCommand
+class FeedCommand extends OperationCommand
 {
     /**
      * {@inheritdoc}
@@ -18,7 +18,7 @@ class GetFeedCommand extends OperationCommand
     protected function createOperation()
     {
         return new Operation(array(
-            'name'       => 'get_feed_command',
+            'name'       => 'feed_command',
             'uri'        => 'rss/{feed_type}{media_type}/limit={size}{+genre}/{format}',
             'httpMethod' => 'GET',
             'parameters' => array(

@@ -4,7 +4,7 @@ namespace AdrienBrault\ItunesClient\Tests\Command;
 
 use AdrienBrault\ItunesClient\Tests\TestCase;
 
-class GetFeedCommandTest extends TestCase
+class FeedCommandTest extends TestCase
 {
     /**
      * @expectedException Guzzle\Service\Exception\ValidationException
@@ -13,8 +13,8 @@ class GetFeedCommandTest extends TestCase
     {
         $client = $this->getClient();
 
-        $command = $client->getCommand('get_feed_command');
-        $this->assertInstanceOf('AdrienBrault\ItunesClient\Command\GetFeedCommand', $command);
+        $command = $client->getCommand('feed_command');
+        $this->assertInstanceOf('AdrienBrault\ItunesClient\Command\FeedCommand', $command);
 
         $request = $command->prepare();
     }
@@ -26,7 +26,7 @@ class GetFeedCommandTest extends TestCase
     {
         $client = $this->getClient();
 
-        $command = $client->getCommand('get_feed_command', $parameters);
+        $command = $client->getCommand('feed_command', $parameters);
 
         $request = $command->prepare();
 
@@ -59,7 +59,7 @@ class GetFeedCommandTest extends TestCase
         $client = $this->getClient();
         $this->setMockResponse($client, 'us_rss_topfreeapplications_limit10_json');
 
-        $command = $client->getCommand('get_feed_command', array(
+        $command = $client->getCommand('feed_command', array(
             'media_type' => 'applications',
             'feed_type'  => 'topfree',
             'size'       => 10,
@@ -77,7 +77,7 @@ class GetFeedCommandTest extends TestCase
         $client = $this->getClient();
         $this->setMockResponse($client, 'us_rss_topfreeapplications_limit10_xml');
 
-        $command = $client->getCommand('get_feed_command', array(
+        $command = $client->getCommand('feed_command', array(
             'media_type' => 'applications',
             'feed_type'  => 'topfree',
             'size'       => 10,
