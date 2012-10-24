@@ -2,7 +2,7 @@
     "name": "adrienbrault/itunes-client",
     "require": {
         "php": ">=5.3.3",
-        "guzzle/guzzle": "*"
+        "guzzle/guzzle": "3.*"
     },
     "require-dev": {
         "fabpot/php-cs-fixer": "*"
