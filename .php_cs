@@ -1,7 +1,5 @@
 <?php
 
-use Symfony\CS\FixerInterface;
-
 $finder = Symfony\CS\Finder\DefaultFinder::create()
     ->notName('LICENSE')
     ->notName('readme.md')
@@ -13,9 +11,10 @@ $finder = Symfony\CS\Finder\DefaultFinder::create()
     ->exclude('tests')
     ->exclude('.DS_STORE')
     ->exclude('.idea')
+    ->exclude('bin')
     ->in(__DIR__)
 ;
 
 return Symfony\CS\Config\Config::create()
     ->finder($finder)
-    ;
+;
