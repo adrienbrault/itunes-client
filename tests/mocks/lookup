@@ -1,0 +1,22 @@
+HTTP/1.1 200 OK
+x-apple-orig-url-path: /lookup?id=909253
+x-apple-translated-wo-url: /WebObjects/MZStoreServices.woa/ws/wsLookup?id=909253
+x-apple-application-site: NWK
+apple-timing-app: 7 ms
+Content-Type: text/javascript; charset=utf-8
+x-apple-application-instance: 1027017
+x-webobjects-loadaverage: 0
+Cache-Control: no-transform, max-age=52
+Date: Wed, 24 Oct 2012 16:46:11 GMT
+Content-Length: 289
+Connection: keep-alive
+X-Apple-Partner: origin.0
+
+
+
+
+{
+ "resultCount":1,
+ "results": [
+{"wrapperType":"artist", "artistType":"Artist", "artistName":"Jack Johnson", "artistLinkUrl":"https://itunes.apple.com/us/artist/jack-johnson/id909253?uo=4", "artistId":909253, "amgArtistId":468749, "primaryGenreName":"Rock", "primaryGenreId":21}]
+}

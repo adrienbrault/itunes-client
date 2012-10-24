@@ -15,19 +15,6 @@ class GetFeedCommand extends OperationCommand
     /**
      * {@inheritdoc}
      */
-    protected function build()
-    {
-        parent::build();
-
-        // json responses have the "text/javascript; charset=UTF-8" content type ...
-        if ('json' === $this->get('format')) {
-            $this->set('command.expects', 'application/json');
-        }
-    }
-
-    /**
-     * {@inheritdoc}
-     */
     protected function createOperation()
     {
         return new Operation(array(
@@ -69,5 +56,18 @@ class GetFeedCommand extends OperationCommand
                 ),
             ),
         ));
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    protected function build()
+    {
+        parent::build();
+
+        // json responses have the "text/javascript; charset=UTF-8" content type ...
+        if ('json' === $this->get('format')) {
+            $this->set('command.expects', 'application/json');
+        }
     }
 }

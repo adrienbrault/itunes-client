@@ -30,7 +30,7 @@ class GetFeedCommandTest extends TestCase
 
         $request = $command->prepare();
 
-        $this->assertEquals($uri, $request->getPath());
+        $this->assertEquals($uri, $request->getResource());
     }
 
     public function getTestUriData()
