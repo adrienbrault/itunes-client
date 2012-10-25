@@ -1,0 +1,74 @@
+HTTP/1.1 200 OK
+x-apple-orig-url-path: /WebObjects/MZStoreServices.woa/wa/RSS/wsAvailableFeeds?cc=us
+x-apple-translated-wo-url: /WebObjects/MZStoreServices.woa/wa/RSS/wsAvailableFeeds?cc=us
+x-apple-application-site: NWK
+apple-timing-app: 299 ms
+Content-Type: text/javascript; charset=utf-8
+x-apple-application-instance: 1002015
+x-webobjects-loadaverage: 0
+Cache-Control: max-age=10759
+Date: Thu, 25 Oct 2012 00:03:00 GMT
+Content-Length: 14369
+Connection: keep-alive
+Vary: X-Apple-Store-Front
+X-Apple-Partner: origin.0
+
+availableFeeds={"display":"Media Type", "name":"mediaType",
+"list":[
+{
+"genres":{"display":"Genre",
+"list":[{"value":"", "display":"All Genres"}, {"value":"50000041", "display":"Arts & Entertainment"}, {"value":"50000070", "display":"Audiobooks Latino"}, {"value":"50000042", "display":"Biography & Memoir"}, {"value":"50000043", "display":"Business"}, {"value":"50000045", "display":"Classics"}, {"value":"50000046", "display":"Comedy"}, {"value":"50000047", "display":"Drama & Poetry"}, {"value":"50000040", "display":"Fiction"}, {"value":"50000049", "display":"History"}, {"value":"50000044", "display":"Kids & Young Adults"}, {"value":"50000050", "display":"Languages"}, {"value":"50000051", "display":"Mystery"}, {"value":"74", "display":"News"}, {"value":"50000052", "display":"Nonfiction"}, {"value":"50000053", "display":"Religion & Spirituality"}, {"value":"50000069", "display":"Romance"}, {"value":"50000055", "display":"Sci Fi & Fantasy"}, {"value":"50000054", "display":"Science"}, {"value":"50000056", "display":"Self Development"}, {"value":"75", "display":"Shows & Periodicals"}, {"value":"50000048", "display":"Speakers & Storytellers"}, {"value":"50000057", "display":"Sports"}, {"value":"50000058", "display":"Technology"}, {"value":"50000059", "display":"Travel & Adventure"}], "key":"genre"},
+"types":{"display":"Feed Type", "list":[{"urlSuffix":"xml", "urlPrefix":"https://itunes.apple.com/us/rss/topaudiobooks/", "display":"Top Audiobooks", "name":"topaudiobooks"}]}, "display":"Audiobooks", "name":"Audiobooks", "canBeExplicit":true},
+{
+"genres":{"display":"Genre",
+"list":[{"value":"", "display":"All Genres"}, {"value":"9007", "display":"Arts & Entertainment"}, {"value":"9008", "display":"Biographies & Memoirs"}, {"value":"9009", "display":"Business & Personal Finance"}, {"value":"9010", "display":"Children & Teens"}, {"value":"9026", "display":"Comics & Graphic Novels"}, {"value":"9027", "display":"Computers & Internet"}, {"value":"9028", "display":"Cookbooks, Food & Wine"}, {"value":"9031", "display":"Fiction & Literature"}, {"value":"9025", "display":"Health, Mind & Body"}, {"value":"9015", "display":"History"}, {"value":"9012", "display":"Humor"}, {"value":"9024", "display":"Lifestyle & Home"}, {"value":"9032", "display":"Mysteries & Thrillers"}, {"value":"9002", "display":"Nonfiction"}, {"value":"9030", "display":"Parenting"}, {"value":"9034", "display":"Politics & Current Events"}, {"value":"9029", "display":"Professional & Technical"}, {"value":"9033", "display":"Reference"}, {"value":"9018", "display":"Religion & Spirituality"}, {"value":"9003", "display":"Romance"}, {"value":"9020", "display":"Sci-Fi & Fantasy"}, {"value":"9019", "display":"Science & Nature"}, {"value":"9035", "display":"Sports & Outdoors"}, {"value":"9004", "display":"Travel & Adventure"}], "key":"genre"},
+"types":{"display":"Feed Type",
+"list":[{"urlSuffix":"xml", "urlPrefix":"https://itunes.apple.com/us/rss/toppaidebooks/", "display":"Top Paid Books", "name":"toppaidebooks"}, {"urlSuffix":"xml", "urlPrefix":"https://itunes.apple.com/us/rss/topfreeebooks/", "display":"Top Free Books", "name":"topfreeebooks"}]}, "display":"Books", "name":"E-Books", "canBeExplicit":false},
+{
+"genres":{"display":"Genre",
+"list":[{"value":"", "display":"All Genres"}, {"value":"6018", "display":"Books"}, {"value":"6000", "display":"Business"}, {"value":"6022", "display":"Catalogs"}, {"value":"6017", "display":"Education"}, {"value":"6016", "display":"Entertainment"}, {"value":"6015", "display":"Finance"}, {"value":"6023", "display":"Food & Drink"}, {"value":"6014", "display":"Games"}, {"value":"6013", "display":"Health & Fitness"}, {"value":"6012", "display":"Lifestyle"}, {"value":"6020", "display":"Medical"}, {"value":"6011", "display":"Music"}, {"value":"6010", "display":"Navigation"}, {"value":"6009", "display":"News"}, {"value":"6021", "display":"Newsstand"}, {"value":"6008", "display":"Photo & Video"}, {"value":"6007", "display":"Productivity"}, {"value":"6006", "display":"Reference"}, {"value":"6005", "display":"Social Networking"}, {"value":"6004", "display":"Sports"}, {"value":"6003", "display":"Travel"}, {"value":"6002", "display":"Utilities"}, {"value":"6001", "display":"Weather"}], "key":"genre"},
+"types":{"display":"Feed Type",
+"list":[{"urlSuffix":"xml", "urlPrefix":"https://itunes.apple.com/us/rss/topfreeapplications/", "display":"Top Free Apps", "name":"topfreeapplications"}, {"urlSuffix":"xml", "urlPrefix":"https://itunes.apple.com/us/rss/toppaidapplications/", "display":"Top Paid Apps", "name":"toppaidapplications"},
+{"urlSuffix":"xml", "urlPrefix":"https://itunes.apple.com/us/rss/topgrossingapplications/", "display":"Top Grossing Apps", "name":"topgrossingapplications"},
+{"urlSuffix":"xml", "urlPrefix":"https://itunes.apple.com/us/rss/topfreeipadapplications/", "display":"Top Free iPad Apps", "name":"topfreeipadapplications"},
+{"urlSuffix":"xml", "urlPrefix":"https://itunes.apple.com/us/rss/toppaidipadapplications/", "display":"Top Paid iPad Apps", "name":"toppaidipadapplications"},
+{"urlSuffix":"xml", "urlPrefix":"https://itunes.apple.com/us/rss/topgrossingipadapplications/", "display":"Top Grossing iPad Apps", "name":"topgrossingipadapplications"}, {"urlSuffix":"xml", "urlPrefix":"https://itunes.apple.com/us/rss/newapplications/", "display":"New Apps", "name":"newapplications"},
+{"urlSuffix":"xml", "urlPrefix":"https://itunes.apple.com/us/rss/newfreeapplications/", "display":"New Free Applications", "name":"newfreeapplications"},
+{"urlSuffix":"xml", "urlPrefix":"https://itunes.apple.com/us/rss/newpaidapplications/", "display":"New Paid Applications", "name":"newpaidapplications"}]}, "display":"iOS Apps", "name":"Mobile Software Applications", "canBeExplicit":false},
+{
+"genres":{"display":"Genre",
+"list":[{"value":"", "display":"All Genres"}, {"value":"40000016", "display":"Art & Architecture"}, {"value":"40000001", "display":"Business"}, {"value":"40000053", "display":"Communications & Media"}, {"value":"40000009", "display":"Engineering"}, {"value":"40000026", "display":"Health & Medicine"}, {"value":"40000041", "display":"History"}, {"value":"40000056", "display":"Language"}, {"value":"40000140", "display":"Law & Politics"}, {"value":"40000070", "display":"Literature"}, {"value":"40000077", "display":"Mathematics"}, {"value":"40000054", "display":"Philosophy"}, {"value":"40000094", "display":"Psychology & Social Science"}, {"value":"40000055", "display":"Religion & Spirituality"}, {"value":"40000084", "display":"Science"}, {"value":"40000101", "display":"Society"}, {"value":"40000109", "display":"Teaching & Learning"}], "key":"genre"},
+"types":{"display":"Feed Type",
+"list":[
+{"urlSuffix":"xml", "urlPrefix":"https://itunes.apple.com/us/rss/topitunesucollections/", "display":"Top iTunes U Collections", "name":"topitunesucollections"}, {"urlSuffix":"xml", "urlPrefix":"https://itunes.apple.com/us/rss/topitunesucourses/", "display":"Top iTunesU Courses", "name":"topitunesucourses"}]}, "display":"iTunesU", "name":"iTunes U", "canBeExplicit":false},
+{
+"genres":{"display":"Genre",
+"list":[{"value":"", "display":"All Genres"}, {"value":"12001", "display":"Business"}, {"value":"12002", "display":"Developer Tools"}, {"value":"12003", "display":"Education"}, {"value":"12004", "display":"Entertainment"}, {"value":"12005", "display":"Finance"}, {"value":"12006", "display":"Games"}, {"value":"12022", "display":"Graphics & Design"}, {"value":"12007", "display":"Health & Fitness"}, {"value":"12008", "display":"Lifestyle"}, {"value":"12010", "display":"Medical"}, {"value":"12011", "display":"Music"}, {"value":"12012", "display":"News"}, {"value":"12013", "display":"Photography"}, {"value":"12014", "display":"Productivity"}, {"value":"12015", "display":"Reference"}, {"value":"12016", "display":"Social Networking"}, {"value":"12017", "display":"Sports"}, {"value":"12018", "display":"Travel"}, {"value":"12019", "display":"Utilities"}, {"value":"12020", "display":"Video"}, {"value":"12021", "display":"Weather"}], "key":"genre"},
+"types":{"display":"Feed Type",
+"list":[{"urlSuffix":"xml", "urlPrefix":"https://itunes.apple.com/us/rss/topmacapps/", "display":"Top Mac Apps", "name":"topmacapps"}, {"urlSuffix":"xml", "urlPrefix":"https://itunes.apple.com/us/rss/topfreemacapps/", "display":"Top Free Mac Apps", "name":"topfreemacapps"}, {"urlSuffix":"xml", "urlPrefix":"https://itunes.apple.com/us/rss/topgrossingmacapps/", "display":"Top Grossing Mac Apps", "name":"topgrossingmacapps"}, {"urlSuffix":"xml", "urlPrefix":"https://itunes.apple.com/us/rss/toppaidmacapps/", "display":"Top Paid Mac Apps", "name":"toppaidmacapps"}]}, "display":"Mac Apps", "name":"Desktop Apps", "canBeExplicit":false},
+{
+"genres":{"display":"Genre",
+"list":[{"value":"", "display":"All Genres"}, {"value":"4401", "display":"Action & Adventure"}, {"value":"4403", "display":"Classics"}, {"value":"4404", "display":"Comedy"}, {"value":"4405", "display":"Documentary"}, {"value":"4406", "display":"Drama"}, {"value":"4407", "display":"Foreign"}, {"value":"4408", "display":"Horror"}, {"value":"4409", "display":"Independent"}, {"value":"4410", "display":"Kids & Family"}, {"value":"4412", "display":"Romance"}, {"value":"4413", "display":"Sci-Fi & Fantasy"}, {"value":"4414", "display":"Short Films"}, {"value":"4417", "display":"Sports"}, {"value":"4416", "display":"Thriller"}, {"value":"4418", "display":"Western"}], "key":"genre"},
+"types":{"display":"Feed Type",
+"list":[{"urlSuffix":"xml", "urlPrefix":"https://itunes.apple.com/us/rss/topmovies/", "display":"Top Movies", "name":"topmovies"}, {"urlSuffix":"xml", "urlPrefix":"https://itunes.apple.com/us/rss/topvideorentals/", "display":"Top Video Rentals", "name":"topvideorentals"}]}, "display":"Movies", "name":"Movies", "canBeExplicit":false},
+{"name":"Music", "display":"Music",
+"genres":{"display":"Genre",
+"list":[{"value":"", "display":"All Genres"}, {"value":"20", "display":"Alternative"}, {"value":"2", "display":"Blues"}, {"value":"4", "display":"Children's Music"}, {"value":"22", "display":"Christian & Gospel"}, {"value":"5", "display":"Classical"}, {"value":"3", "display":"Comedy"}, {"value":"6", "display":"Country"}, {"value":"17", "display":"Dance"}, {"value":"7", "display":"Electronic"}, {"value":"50", "display":"Fitness & Workout"}, {"value":"18", "display":"Hip-Hop/Rap"}, {"value":"8", "display":"Holiday"}, {"value":"11", "display":"Jazz"}, {"value":"12", "display":"Latino"}, {"value":"14", "display":"Pop"}, {"value":"15", "display":"R&B/Soul"}, {"value":"24", "display":"Reggae"}, {"value":"21", "display":"Rock"}, {"value":"10", "display":"Singer/Songwriter"}, {"value":"16", "display":"Soundtrack"}, {"value":"50000061", "display":"Spoken Word"}, {"value":"19", "display":"World"}], "key":"genre"},
+"types":{"display":"Feed Type",
+"list":[{"urlSuffix":"xml", "urlPrefix":"https://itunes.apple.com/us/rss/topalbums/", "display":"Top Albums", "name":"topalbums"}, {"urlSuffix":"xml", "urlPrefix":"https://itunes.apple.com/us/rss/topimixes/", "display":"Top iMixes", "name":"topimixes"}, {"urlSuffix":"xml", "urlPrefix":"https://itunes.apple.com/us/rss/topsongs/", "display":"Top Songs", "name":"topsongs"},
+{"urlSuffix":"rss.xml", "urlPrefix":"https://itunes.apple.com/WebObjects/MZStore.woa/wpa/MRSS/newreleases/sf=143441/", "display":"New Releases", "name":"newreleases"},
+{"urlSuffix":"rss.xml", "urlPrefix":"https://itunes.apple.com/WebObjects/MZStore.woa/wpa/MRSS/justadded/sf=143441/", "display":"Just Added", "name":"justadded"},
+{"urlSuffix":"rss.xml", "urlPrefix":"https://itunes.apple.com/WebObjects/MZStore.woa/wpa/MRSS/featuredalbums/sf=143441/", "display":"Featured Albums & Exclusives", "name":"featuredalbums"}]}, "canBeExplicit":true, "selected":"1"},
+{
+"genres":{"display":"Genre",
+"list":[{"value":"", "display":"All Genres"}, {"value":"1620", "display":"Alternative"}, {"value":"1606", "display":"Country"}, {"value":"1607", "display":"Electronic"}, {"value":"1618", "display":"Hip-Hop/Rap"}, {"value":"1612", "display":"Latin"}, {"value":"1614", "display":"Pop"}, {"value":"1615", "display":"R&B/Soul"}, {"value":"1621", "display":"Rock"}], "key":"genre"},
+"types":{"display":"Feed Type", "list":[{"urlSuffix":"xml", "urlPrefix":"https://itunes.apple.com/us/rss/topmusicvideos/", "display":"Top Music Videos", "name":"topmusicvideos"}]}, "display":"Music Videos", "name":"Music Videos", "canBeExplicit":true},
+{
+"genres":{"display":"Genre",
+"list":[{"value":"", "display":"All Genres"}, {"value":"1301", "display":"Arts"}, {"value":"1321", "display":"Business"}, {"value":"1303", "display":"Comedy"}, {"value":"1304", "display":"Education"}, {"value":"1323", "display":"Games & Hobbies"}, {"value":"1325", "display":"Government & Organizations"}, {"value":"1307", "display":"Health"}, {"value":"1305", "display":"Kids & Family"}, {"value":"1310", "display":"Music"}, {"value":"1311", "display":"News & Politics"}, {"value":"1314", "display":"Religion & Spirituality"}, {"value":"1315", "display":"Science & Medicine"}, {"value":"1324", "display":"Society & Culture"}, {"value":"1316", "display":"Sports & Recreation"}, {"value":"1318", "display":"Technology"}, {"value":"1309", "display":"TV & Film"}], "key":"genre"},
+"types":{"display":"Feed Type", "list":[{"urlSuffix":"xml", "urlPrefix":"https://itunes.apple.com/us/rss/toppodcasts/", "display":"Top Podcasts", "name":"toppodcasts"}]}, "display":"Podcasts", "name":"Podcasts", "canBeExplicit":true},
+{
+"genres":{"display":"Genre",
+"list":[{"value":"", "display":"All Genres"}, {"value":"4002", "display":"Animation"}, {"value":"4004", "display":"Classic"}, {"value":"4000", "display":"Comedy"}, {"value":"4001", "display":"Drama"}, {"value":"4005", "display":"Kids"}, {"value":"4006", "display":"Nonfiction"}, {"value":"4007", "display":"Reality TV"}, {"value":"4008", "display":"Sci-Fi & Fantasy"}, {"value":"4009", "display":"Sports"}, {"value":"4010", "display":"Teens"}], "key":"genre"},
+"types":{"display":"Feed Type",
+"list":[{"urlSuffix":"xml", "urlPrefix":"https://itunes.apple.com/us/rss/toptvepisodes/", "display":"Top TV Episodes", "name":"toptvepisodes"}, {"urlSuffix":"xml", "urlPrefix":"https://itunes.apple.com/us/rss/toptvseasons/", "display":"Top TV Seasons", "name":"toptvseasons"}]}, "display":"TV Shows", "name":"TV Shows", "canBeExplicit":false}]}
