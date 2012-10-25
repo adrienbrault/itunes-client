@@ -12,7 +12,7 @@ use Guzzle\Service\Command\ResponseParserInterface;
  *
  * Look at the source code of @link http://itunes.apple.com/rss
  */
-class AvailableFeedsCommand extends OperationCommand implements ResponseParserInterface
+class ListFeedsCommand extends OperationCommand implements ResponseParserInterface
 {
     /**
      * {@inheritdoc}

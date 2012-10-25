@@ -4,13 +4,13 @@ namespace AdrienBrault\ItunesClient\Tests\Command;
 
 use AdrienBrault\ItunesClient\Tests\TestCase;
 
-class AvailableFeedsCommandTest extends TestCase
+class ListFeedsCommandTest extends TestCase
 {
     public function testUri()
     {
         $client = $this->getClient();
 
-        $command = $client->getCommand('available_feeds_command');
+        $command = $client->getCommand('list_feeds_command');
 
         $request = $command->prepare();
 
@@ -22,7 +22,7 @@ class AvailableFeedsCommandTest extends TestCase
         $client = $this->getClient();
         $this->setMockResponse($client, 'available_feeds_us');
 
-        $command = $client->getCommand('available_feeds_command');
+        $command = $client->getCommand('list_feeds_command');
 
         $result = $command->execute();
 
