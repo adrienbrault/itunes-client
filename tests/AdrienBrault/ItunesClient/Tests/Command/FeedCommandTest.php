@@ -39,16 +39,14 @@ class FeedCommandTest extends TestCase
             array(
                 '/us/rss/topfreeapplications/limit=100/json',
                 array(
-                    'media_type' => 'applications',
-                    'feed_type'  => 'topfree',
+                    'type' => 'topfreeapplications',
                 ),
             ),
             array(
                 '/us/rss/topfreeapplications/limit=100/genre=6014/json',
                 array(
-                    'media_type' => 'applications',
-                    'feed_type'  => 'topfree',
-                    'genre'      => 6014,
+                    'type'  => 'topfreeapplications',
+                    'genre' => 6014,
                 ),
             ),
         );
@@ -60,8 +58,7 @@ class FeedCommandTest extends TestCase
         $this->setMockResponse($client, 'us_rss_topfreeapplications_limit10_json');
 
         $command = $client->getCommand('feed_command', array(
-            'media_type' => 'applications',
-            'feed_type'  => 'topfree',
+            'type'       => 'topfreeapplications',
             'size'       => 10,
             'format'     => 'json',
         ));
@@ -78,8 +75,7 @@ class FeedCommandTest extends TestCase
         $this->setMockResponse($client, 'us_rss_topfreeapplications_limit10_xml');
 
         $command = $client->getCommand('feed_command', array(
-            'media_type' => 'applications',
-            'feed_type'  => 'topfree',
+            'type' => 'topfreeapplications',
             'size'       => 10,
             'format'     => 'xml',
         ));

@@ -9,10 +9,9 @@ $client = ItunesClient::factory(array(
 ));
 
 $command = $client->getCommand('feed_command', array(
-    'media_type' => 'applications',
-    'feed_type'  => 'toppaid',
-    'format'     => 'json',
-    'size'       => 10,
+    'type'   => 'toppaidapplications',
+    'format' => 'json',
+    'size'   => 10,
 ));
 $result = $command->execute();
 

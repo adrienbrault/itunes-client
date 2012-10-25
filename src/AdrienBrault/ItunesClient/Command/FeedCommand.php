@@ -19,15 +19,10 @@ class FeedCommand extends OperationCommand
     {
         return new Operation(array(
             'name'       => 'feed_command',
-            'uri'        => 'rss/{feed_type}{media_type}/limit={size}{+genre}/{format}',
+            'uri'        => 'rss/{type}/limit={size}{+genre}/{format}',
             'httpMethod' => 'GET',
             'parameters' => array(
-                'media_type' => array(
-                    'type'     => 'string',
-                    'required' => true,
-                    'location' => 'uri',
-                ),
-                'feed_type' => array(
+                'type' => array(
                     'type'     => 'string',
                     'required' => true,
                     'location' => 'uri',
