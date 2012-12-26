@@ -20,6 +20,9 @@ class ItunesClient extends Client
         $default = array(
             'base_url' => '{scheme}://itunes.apple.com/{country}/',
             'scheme'   => 'https',
+            self::CURL_OPTIONS => array(
+                CURLOPT_ENCODING => 'gzip',
+            ),
         );
         $required = array('country');
         $config = Collection::fromConfig($config, $default, $required);
