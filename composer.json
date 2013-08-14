@@ -1,5 +1,6 @@
 {
     "name": "adrienbrault/itunes-client",
+    "license": "MIT",
     "require": {
         "php": ">=5.3.3",
         "guzzle/guzzle": "~3.0"
