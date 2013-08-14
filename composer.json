@@ -1,5 +1,6 @@
 {
     "name": "adrienbrault/itunes-client",
+    "description": "PHP Guzzle based client to query itunes' RSS feeds.",
     "license": "MIT",
     "require": {
         "php": ">=5.3.3",
